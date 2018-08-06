@@ -1,4 +1,4 @@
-# ITrellis Coding Test - Angular/NodeJS ToDo List
+# Angular/NodeJS ToDo List
 
 ## Requirements
 
