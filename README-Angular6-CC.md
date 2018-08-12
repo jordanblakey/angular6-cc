@@ -22,6 +22,24 @@ Services - Classes that send data and functionality across components
 Basics
 `ng serve, build, lint, test, e2e`
 
+```sh
+npm audit fix
+ng doc forRoot #Open Angular API documentation with search term
+ng update #Update to the latest version of angular
+ng build --prod #Create a dist folder for deployment
+ng add @ng-bootstrap/schematics # Add bootstrap schematic to the project
+ng add @angular/pwa # Add progressive web application to project
+ng test # Open Karma in the browser
+ng g pipe uppercase -m awesome # Generate a pipe and include it in module "awesome"
+ng g pipe awesome/lowercase # Generate a pipe and nest it in module awesome
+ng g module awesome # Generate module awesome
+ng g c neat2 --spec false -t -s # Generate component with no tests, inlining styles and template
+ng g c neat --spec false -t -s # 
+ng g c neat
+ng generate component cool
+ng generate component --help
+```
+
 Component Generation
 `ng g component components/user`
 
